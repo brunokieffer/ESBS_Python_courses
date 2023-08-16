@@ -9,10 +9,16 @@ The course is organized according the following plan:
 ## PYTHON_23_1
 Introduction to Python langage, simple objects and string object methods.
 
-## Python_23_2X
+## Python_22_2X
 From string to list and dictionary objects. Iterating on objects taken from a list. Illustration with the genetic code
 
 ## Python 23_3
 Making decision: the if statement and the boolean type. The while loop.
 
-## Python
+## Python_23_4
+Organizing the code by defining functions. function arguments. Recursive call to a function
+
+## Python_23_5
+Input/Output: reading and writing data to a file. The import command with the os library. Exchanging data with Excel through csv files.
+
+
