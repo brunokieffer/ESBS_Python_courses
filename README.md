@@ -7,7 +7,12 @@ such as str.split() are introduced using analogy with restriction enzymes.
 The course is organized according the following plan:
 
 ## PYTHON_23_1
-Introduction to Python langange, simple objects and string object methods.
+Introduction to Python langage, simple objects and string object methods.
 
-## Python_23_2
+## Python_23_2X
+From string to list and dictionary objects. Iterating on objects taken from a list. Illustration with the genetic code
 
+## Python 23_3
+Making decision: the if statement and the boolean type. The while loop.
+
+## Python
