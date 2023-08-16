@@ -9,7 +9,7 @@ The course is organized according the following plan:
 ## PYTHON_23_1
 Introduction to Python langage, simple objects and string object methods.
 
-## Python_22_2X
+## Python_23_2
 From string to list and dictionary objects. Iterating on objects taken from a list. Illustration with the genetic code
 
 ## Python 23_3
