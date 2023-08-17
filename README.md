@@ -21,4 +21,11 @@ Organizing the code by defining functions. function arguments. Recursive call to
 ## Python_23_5
 Input/Output: reading and writing data to a file. The import command with the os library. Exchanging data with Excel through csv files.
 
+## PY_ESBS_TD1
+A set of exercises to handle string objects to perform simple tasks on biological sequences (DNA, proteins)
 
+## PY_ESBS_TD2
+A set of exercises based on the turtle module to draw a plasmid map. The purpose is to understand how to define simple bricks of code and as python functions and assemble them to perform complex tasks.
+
+## PY_ESBS_TD3
+Introducing Numpy/Scipy to handle protein coordinates, from reading a PDB file to perform simple geometrical calculations (distances, angles). Use of Matplotlib for plotting.
